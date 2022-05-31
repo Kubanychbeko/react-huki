@@ -1,0 +1,15 @@
+
+
+.menu {
+  display: flex;
+  justify-content: center;
+  gap:1rem;
+  position: relative;
+  top: 100px;
+}
+
+.surot1 {
+  position: relative;
+  top: 450px;
+  right: 620px;
+}
